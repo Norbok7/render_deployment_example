@@ -6,7 +6,7 @@ databases:
 
 services:
     - type: web
-      name: renderdeploymentexample
+      name: garrett_duncan
       runtime: ruby
       plan: free
       buildCommand: './bin/render-build.sh'
