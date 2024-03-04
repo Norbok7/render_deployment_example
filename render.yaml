@@ -1,7 +1,7 @@
 databases:
-    - name: GarrettDuncan
-      databaseName: GarrettDuncan
-      user: GarrettDuncan
+    - name: garrett_duncan
+      databaseName: garrett_duncan
+      user: garrett_duncan
       plan: free
 
 services:
